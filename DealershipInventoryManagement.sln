@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealershipInventoryManagement", "DealershipInventoryManagement\DealershipInventoryManagement.csproj", "{B96C45AE-F45F-425C-9A3C-9CBAF2400F99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DealershipInventoryManagement", "DealershipInventoryManagement\DealershipInventoryManagement.csproj", "{B96C45AE-F45F-425C-9A3C-9CBAF2400F99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF5AD837-95D3-481F-942C-D536B3EF4F03}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

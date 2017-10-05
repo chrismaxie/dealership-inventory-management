@@ -1,0 +1,13 @@
+root = true
+
+[*]
+end_of_line = crlf
+
+[*.xml]
+indent_style = space
+
+[*.cs]
+indent_size = 4
+indent_style = space
+csharp_new_line_before_open_brace = all
+dotnet_style_predefined_type_for_locals_parameters_members = true:warning
