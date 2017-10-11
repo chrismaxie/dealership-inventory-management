@@ -5,6 +5,7 @@ namespace DealershipInventoryManagement
 {
     public class Program
     {
+        // We should add some code to this
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
